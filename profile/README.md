@@ -1,6 +1,6 @@
 <div align="center">
 
 # polymorphism
-a multi-language software obfuscator.
+a multi-language software protection kit.
 
 </div>
